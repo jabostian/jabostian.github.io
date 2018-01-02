@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Adventures in Computing - Blog</title><link href="https://jabostian.github.com/" rel="alternate"></link><link href="https://jabostian.github.com/feeds/blog.atom.xml" rel="self"></link><id>https://jabostian.github.com/</id><updated>2017-01-01T00:00:00-05:00</updated><entry><title>Hello World</title><link href="https://jabostian.github.com/hello-world.html" rel="alternate"></link><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><author><name>Joe Bostian</name></author><id>tag:jabostian.github.com,2017-01-01:/hello-world.html</id><summary type="html">&lt;h3&gt;Joe Bostian&lt;/h3&gt;
-&lt;p&gt;&lt;under construction ...&gt;
+&lt;p&gt;&lt;em&gt;under construction ...&lt;/em&gt;
 &lt;img alt="alt_text" src="images/JABostian_2017-profile_small.jpg" title="Joe Bostian"&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Welcome to my personal repo.  I interact a lot with open source at work, and the things I post here are my
 experiences - either with a work-related project, or just for fun.  A lot of what I do can be found through my
-work id - &lt;a href="https://github.com/jbostian"&gt;jbostian&lt;/a&gt;.  My current …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Joe Bostian&lt;/h3&gt;
-&lt;p&gt;&lt;under construction ...&gt;
+work id - &lt;a href="https://github.com/jbostian"&gt;jbostian …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Joe Bostian&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;under construction ...&lt;/em&gt;
 &lt;img alt="alt_text" src="images/JABostian_2017-profile_small.jpg" title="Joe Bostian"&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Welcome to my personal repo.  I interact a lot with open source at work, and the things I post here are my
 experiences - either with a work-related project, or just for fun.  A lot of what I do can be found through my
